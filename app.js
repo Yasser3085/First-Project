@@ -7,7 +7,7 @@ const app = express();
 //step 4
 
 app.get("/name", (req, res) => {
-  res.send("Welcome Yasser To JS Bootcamp ");
+  res.send("Welcome Yasser To JS  ");
 });
 
 // step 3
