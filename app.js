@@ -12,6 +12,6 @@ app.get("/name", (req, res) => {
 
 // step 3
 
-app.listen(8000, () => {
+app.listen(3000, () => {
   console.log(" iam listining ");
 });
